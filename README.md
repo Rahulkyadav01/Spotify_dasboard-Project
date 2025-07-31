@@ -22,7 +22,7 @@ Which artists are trending?
 What features are common in hit songs?
 Is song popularity increasing or decreasing over the years?
 Are danceability or energy related to popularity?
--
-About the Project Author
+
+ Project Author
 Created by Rahul Yadav 
 -
