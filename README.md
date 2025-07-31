@@ -27,9 +27,7 @@ Is song popularity increasing or decreasing over the years?
 Are danceability or energy related to popularity?
 
 ## 📷 Dashboard Preview
-
-[Spotify Dashboard](https://github.com/rahulyadav01/Spotify-Dashboard/blob/main/assets/dashboard.png)
-
+https://github.com/Rahulkyadav01/Spotify_dasboard-Project/blob/main/Spotify%20Dasboard.png
 
  Project Author
 Created by Rahul Yadav 
