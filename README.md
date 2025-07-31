@@ -16,7 +16,7 @@ Popularity distribution by genres
 Trends over the years (e.g. tempo, energy, danceability)
 Interactive filters: year, genre, artist, and song popularity
 Clean and user-friendly visual design
--
+
 -------------- Insights You Can Gain----------------------------------------
 Which artists are trending?
 What features are common in hit songs?
